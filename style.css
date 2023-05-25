@@ -22,6 +22,7 @@ header {
     background-repeat: no-repeat, repeat;
     /* padding: 15px; */
     background-size: 100vw 100vh;
+    height: 100vh;
 }
 
 /* .nav-body {
@@ -30,6 +31,7 @@ header {
 
 .img-body {
     width: 15%;
+    /* height: 100vh; */
 }
 
 .logo-img {
@@ -41,6 +43,10 @@ header {
 .justify-content-center {
     flex-wrap: nowrap;
 }
+
+/* .nav-body {
+    height: 100vh;
+} */
 
 .nav-link {
     padding-left: 0;
